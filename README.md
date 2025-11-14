@@ -6,6 +6,14 @@ I could use these languages:
 - `Python/discord.py`
 - `JS`
 - `HTML/CSS`
+
+I use Fedora workstation during coding,
+use Debain or Arch for server.
 ## links
-discord `biarder_9157`
+email: Biarder.dev@gmail.com
+discord: `biarder_9157`
 ## My Best Code
+```c
+while (*str)
+	putchar(*str++);
+```
