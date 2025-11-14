@@ -1,17 +1,17 @@
 ## Hello, World!
-Hi! I'm Biarder.
-I'm not good at programming that much, but I love to do it.
-I could use these languages:
+Hi! I'm Biarder.  
+I'm not good at programming that much, but I love to do it.  
+I could use these languages:  
 - `C (not C++)`
 - `Python/discord.py`
 - `JS`
 - `HTML/CSS`
 
-I use Fedora workstation during coding,
-use Debain or Arch for server.
+I use Fedora workstation during coding,  
+use Debain or Arch for server.  
 ## links
-email: Biarder.dev@gmail.com
-discord: `biarder_9157`
+email: Biarder.dev@gmail.com  
+discord: `biarder_9157`  
 ## My Best Code
 ```c
 while (*str)
