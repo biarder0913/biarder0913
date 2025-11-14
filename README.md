@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**biarder0913/biarder0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, World!
+Hi! I'm Biarder.
+I'm not good at programming that much, but I love to do it.
+I could use these languages:
+- C (not C++)
+- Python/discord.py
+- JS
+- HTML/CSS
+## links
+discord `biarder_9157`
