@@ -6,14 +6,14 @@ I could use these languages:
 - `Python (discord.py, flask)`
 - `JS`
 - `HTML/CSS`
-Currently Studing NestJS.
+Currently Studing NestJS.  
 
-I use GNOME on Arch linux.
+I use GNOME on Arch linux.  
 And for server, I use Debian.
 
-And I love vim.
+And I love vim.  
 It's best editor in the world!
-You should try it.
+You should try it.  
 ## links
 email: Biarder.dev@gmail.com  
 discord: `biarder_9157`  
