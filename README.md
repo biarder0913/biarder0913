@@ -5,7 +5,8 @@ I could use these languages:
 - `C (not C++)`
 - `Python (discord.py, flask)`
 - `JS`
-- `HTML/CSS`  
+- `HTML/CSS`
+
 Currently Studing NestJS.  
 
 I use GNOME on Arch linux.  
